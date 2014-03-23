@@ -1,0 +1,5 @@
+hurafafafa
+
+Always keep malloc into the beginning of the work, to keep le surprises away
+
+Welcome to the jungle
